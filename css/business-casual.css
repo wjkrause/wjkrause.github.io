@@ -39,11 +39,6 @@ hr {
 }
 
 /* ------------- begin fade out div --------------*/
-.wrapper {
-	width: auto;
-	margin: 0;
-}
-
 .navbar_line { 
     margin: 25px 0;
     height: 1px;
