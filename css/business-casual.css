@@ -42,8 +42,6 @@ hr {
 .wrapper {
 	width: auto;
 	margin: 0;
-	white-space: nowrap;
-	display: inline-block;
 }
 
 .navbar_line { 
@@ -182,6 +180,7 @@ footer p {
 
     .navbar-header {
         display: none;
+		white-space: nowrap;
     }
 
     .navbar {
