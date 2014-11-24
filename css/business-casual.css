@@ -85,7 +85,7 @@ hr {
     background: #fff; /* --------------------------------------- changed from fff to eee -------*/
     background: rgba(255,255,255,0.9); /* changed to 238 from 255 */
 	border-style: solid;
-	border-width: 5px;
+	border-width: 2px;
 }
 
 .intro-text {
