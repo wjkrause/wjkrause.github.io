@@ -42,6 +42,7 @@ hr {
 .wrapper {
 	width: auto;
 	margin: 0;
+	white-space: nowrap;
 }
 
 .navbar_line { 
@@ -201,7 +202,7 @@ footer p {
     }
 
     .navbar-nav {
-        display: inline; /*changed from table to inline*/
+        display: table;
         float: none;
         margin: 0 auto;
         table-layout: fixed;
