@@ -39,11 +39,13 @@ hr {
 }
 
 /* ------------- begin fade out div --------------*/
-.navbar_line { 
-    margin: 25px 0;
-    height: 1px;
-    background: black;
-    background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%, black));
+@media (min-width: 1200px) {
+	.navbar_line { 
+		margin: 25px 0;
+		height: 1px;
+		background: black;
+		background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%, black));
+	}	
 }
 /* --------------- end fade out div ---------------*/
 
