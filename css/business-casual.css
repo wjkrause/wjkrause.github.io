@@ -43,6 +43,7 @@ hr {
 	width: auto;
 	margin: 0;
 	white-space: nowrap;
+	display: inline-block;
 }
 
 .navbar_line { 
