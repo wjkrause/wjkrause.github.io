@@ -40,12 +40,12 @@ hr {
 
 .brand {
 	display: none;
-	border: 2px #eee dotted;
+	border: 2px #777 dashed;
 	border-bottom: 0;
 }
 .address-bar {
     display: none;
-	border: 2px #eee dotted;
+	border: 2px #777 dashed;
 	border-top: 0;
 }
 
