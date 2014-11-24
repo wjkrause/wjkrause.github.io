@@ -41,6 +41,9 @@ hr {
 .brand,
 .address-bar {
     display: none;
+}
+
+.brand + .address-bar {
 	border-style: solid;
 	border-width: 2px;
 }
