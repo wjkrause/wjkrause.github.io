@@ -84,7 +84,7 @@ hr {
     padding: 30px 15px;
     background: #fff; /* --------------------------------------- changed from fff to eee -------*/
     background: rgba(255,255,255,0.9); /* changed to 238 from 255 */
-	border-style: solid;
+	border-style: dashed;
 	border-width: 1px;
 	border-color: #777;
 }
