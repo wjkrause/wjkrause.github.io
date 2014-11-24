@@ -83,7 +83,7 @@ hr {
     margin-bottom: 20px;
     padding: 30px 15px;
     background: #eee; /* --------------------------------------- changed from fff to eee -------*/
-    /*background: rgba(255,255,255,0.9);*/
+    background: rgba(238,238,238,0.9); /* changed to 238 from 255 */
 }
 
 .intro-text {
