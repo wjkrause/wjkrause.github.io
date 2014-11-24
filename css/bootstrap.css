@@ -257,7 +257,7 @@ th {
   }
   .table td,
   .table th {
-    background-color: #eee !important; /* --------------------------------------- changed from fff to eee -------*/
+    background-color: #fff !important;
   }
   .table-bordered th,
   .table-bordered td {
