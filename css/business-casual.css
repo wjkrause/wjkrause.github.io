@@ -40,12 +40,12 @@ hr {
 
 .brand {
 	display: none;
-	border: 1px #777 dashed;
+	border: 1px rgba(119,119,119,0.5) dashed;
 	border-bottom: 0;
 }
 .address-bar {
     display: none;
-	border: 1px #777 dashed;
+	border: 1px rgba(119,119,119,0.5) dashed;
 	border-top: 0;
 }
 
@@ -92,7 +92,7 @@ hr {
     background: rgba(255,255,255,0.9); /* changed to 238 from 255 */
 	border-style: dashed;
 	border-width: 1px;
-	border-color: rgba(119,119,119,1);
+	border-color: rgba(119,119,119,0.5);
 }
 
 .intro-text {
