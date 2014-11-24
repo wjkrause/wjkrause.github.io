@@ -82,8 +82,8 @@ hr {
 .box {
     margin-bottom: 20px;
     padding: 30px 15px;
-    background: #000; /* --------------------------------------- changed from fff to eee -------*/
-    background: rgba(255,255,255,0.9);
+    background: #eee; /* --------------------------------------- changed from fff to eee -------*/
+    /*background: rgba(255,255,255,0.9);*/
 }
 
 .intro-text {
