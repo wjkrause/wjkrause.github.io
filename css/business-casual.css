@@ -201,7 +201,7 @@ footer p {
     }
 
     .navbar-nav {
-        display: table;
+        display: inline; /*changed from table to inline*/
         float: none;
         margin: 0 auto;
         table-layout: fixed;
