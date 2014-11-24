@@ -71,6 +71,7 @@ hr.fadeout {
     /*text-transform: uppercase;*/
     font-weight: 400;
     letter-spacing: 3px;
+	margin-bottom: 0; /*-----------------added*/
 }
 
 .img-full {
