@@ -39,7 +39,7 @@ hr {
 }
 
 /* ------------- begin fade out div --------------*/
-@media (min-width: 1200px) {
+@media (min-width: 768px) {
 	.navbar_line { 
 		margin: 25px 0;
 		height: 1px;
