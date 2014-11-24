@@ -38,14 +38,15 @@ hr {
     border-color: #999999;
 }
 
-.brand,
+.brand {
+	display: none;
+	border: 2px #eee dotted;
+	border-bottom: 0;
+}
 .address-bar {
     display: none;
-}
-
-.brand + .address-bar {
-	border-style: solid;
-	border-width: 2px;
+	border: 2px #eee dotted;
+	border-top: 0;
 }
 
 .navbar-brand {
@@ -91,7 +92,7 @@ hr {
     background: rgba(255,255,255,0.9); /* changed to 238 from 255 */
 	border-style: dashed;
 	border-width: 1px;
-	border-color: #777;
+	border-color: rgba(119,119,119,0.5);
 }
 
 .intro-text {
