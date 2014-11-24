@@ -52,6 +52,7 @@ hr {
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 3px;
+	opacity: 0.5; /*added*/
 }
 
 .img-full {
@@ -82,7 +83,7 @@ hr {
     margin-bottom: 20px;
     padding: 30px 15px;
     background: #fff;
-    background: rgba(255,255,255,0.4); /* changed 0.9 to 0.4 */
+    background: rgba(255,255,255,0.9);
 }
 
 .intro-text {
