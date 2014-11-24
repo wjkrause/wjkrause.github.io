@@ -240,7 +240,7 @@ th {
     page-break-after: avoid;
   }
   select {
-    background: #eee !important; /* --------------------------------------- changed from fff to eee -------*/
+    background: #fff !important;
   }
   .navbar {
     display: none;
@@ -257,7 +257,7 @@ th {
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: #eee !important; /* --------------------------------------- changed from fff to eee -------*/
   }
   .table-bordered th,
   .table-bordered td {
