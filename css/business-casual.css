@@ -49,6 +49,12 @@ hr {
 }
 /* --------------- end fade out div ---------------*/
 
+.center {
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .brand {
 	display: none;
 }
