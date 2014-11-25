@@ -100,8 +100,8 @@ hr {
 .box {
     margin-bottom: 20px;
     padding: 30px 15px;
-    background: #fff; /* --------------------------------------- changed from fff to eee -------*/
-    background: rgba(255,255,255,0.9); /* changed to 238 from 255 */
+    background: #fff;
+    background: rgba(255,255,255,0.9); 
 	border-style: dashed;
 	border-width: 1px;
 	border-color: rgba(119,119,119,0.5);
