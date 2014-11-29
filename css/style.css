@@ -130,9 +130,9 @@
 /* ============================================================
    BANNER
    ============================================================ */ 
-   #banner                { width:100%; background:url(../images/banner-about.jpg) fixed no-repeat center center / cover; height:90%; display:table; }
+   #banner                { width:100%; background:url(../images/peru2.jpg) fixed no-repeat center bottom / cover; height:90%; display:table; }
    #banner-heading        { display:table-cell; vertical-align:middle; padding:2em 0; }
-   #banner h1             { display:block; max-width:50%; margin:0 auto; color:#fbfbfb; font-family:'Open Sans', sans-serif; font-size:2.75rem; font-weight:normal;text-align:center; }
+   #banner h1             { display:block; max-width:50%; margin:0 auto; color:#fbfbfb; text-shadow: -1px 0 #61380B, 0 1px #61380B, 1px 0 #61380B, 0 -1px #61380B; font-family:'Open Sans', sans-serif; font-size:2.75rem; font-weight:normal;text-align:center; }
    #banner-full           { width:100%; height:40%; display:table; display:block; overflow:hidden; }
    #banner-full img       { width:100%; display:block; margin-top:-40%; } 
 
@@ -197,7 +197,7 @@
 /* ============================================================
    PAGE- ABOUT
    ============================================================ */
-   #banner-about             { width:100%; background:url(../images/peru2.jpg) no-repeat center center / cover; height:35%; display:block; }
+   #banner-about             { width:100%; background:url(../images/austria2.jpg) no-repeat center center / cover; height:35%; display:block; }
    
    #about                    { max-width:45rem; display:block; margin:-5rem auto 3rem; overflow:hidden; }
    #profile-img              { width:35%; max-width:158px; display:block; margin:0 auto 1.5rem; }
@@ -244,7 +244,7 @@
 /* ============================================================
    PAGE- CONTACT
    ============================================================ */
-   #banner-contact           { width:100%; background:url(../images/germany.jpg) no-repeat center top / cover; height:35%; display:block; }
+   #banner-contact           { width:100%; background:url(../images/austria.jpg) no-repeat center top / cover; height:35%; display:block; }
    
    #contact                  { max-width:45rem; display:block; margin:3rem auto 5rem; }
    #contact h1               { text-align:center; margin:1rem 0 3rem; }
@@ -380,8 +380,9 @@
    .home#works            { padding:3rem 0; }
    #blog-wrap             { padding:3rem 0; }
    
-   #banner                         { width:100%; background-position:center top; background-attachment:scroll; display:block; height:auto; }
-   #banner-about, #banner-contact  { width:100%; background-position:center top; background-attachment:scroll; height:15rem; }
+   #banner                         { width:100%; background-position:center center; background-attachment:scroll; display:block; height:auto; }
+   #banner-about	{ width:100%; background-position:center center; background-attachment:scroll; height:15rem; }
+   #banner-contact  { width:100%; background-position:center top; background-attachment:scroll; height:15rem; }
    #banner-heading                 { padding:0 2rem; display:block; }
    #banner h1                      { max-width:600px; font-size:2rem; padding:5rem 0; }
  
@@ -399,7 +400,7 @@
    .img-mid figcaption    { font-size:.9rem; }
    
    #logo a span           { margin-top:.6rem; }
-   #banner                { width:100%; background-position:center top; background-attachment:scroll; display:block; height:auto; }
+   #banner                { width:100%; background-position:center center; background-attachment:scroll; display:block; height:auto; }
    #banner-heading        { padding:0 2rem; display:block; }
    #banner h1             { max-width:500px; font-size:1.5rem; padding:4rem 0; }
    .home#works            { padding:3rem 0; }
@@ -434,7 +435,8 @@
    #blog-wrap h3             { float:none; -webkit-transition:all 0.4s ease 0s; -moz-transition:all 0.4s ease 0s; -o-transition:all 0.4s ease 0s; transition:all 0.4s ease 0s; margin-bottom:.5rem; }  
    #blog-wrap .date          { float:none; text-align:right; color:#777; font-size:1.125rem; }
    
-   #banner-about, #banner-contact  { width:100%; background-position:center top; background-attachment:scroll; height:15rem; }
+   #banner-about	{ width:100%; background-position:center center; background-attachment:scroll; height:15rem; }
+   #banner-contact  { width:100%; background-position:center top; background-attachment:scroll; height:15rem; }
    
    }
    
@@ -461,7 +463,8 @@
    .no-banner .content        { padding:1.75rem 1.25rem; }
    .no-banner .content h2     { font-size:2.250rem; margin-bottom:2rem; }
 
-   #banner-about, #banner-contact   { width:100%; background-position:center top; background-size:cover; background-attachment:scroll; height:10rem; }
+   #banner-about	{ width:100%; background-position:center center; background-size:cover; background-attachment:scroll; height:10rem; }
+   #banner-contact   { width:100%; background-position:center top; background-size:cover; background-attachment:scroll; height:10rem; }
    #about p, #contact p             { margin:0 auto 1.5rem; } 
    #about h3, .single#blog h3       { margin:0 auto 1.5rem; text-align:left; }
    #featured                        { width:100%; display:block; float:none; margin:0 auto 5rem; }
